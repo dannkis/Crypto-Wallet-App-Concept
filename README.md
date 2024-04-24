@@ -22,7 +22,7 @@ A secure and user-friendly crypto wallet, enabling effortless management and tra
 
 ### Wallet Page
 
-[screencapture-localhost-3001-Wallets-2024-04-24-12_50_55.pdf](https://github.com/dannkis/Crypto-Wallet-App-Concept/files/15093640/screencapture-localhost-3001-Wallets-2024-04-24-12_50_55.pdf)
+![screencapture-localhost-3001-Wallets-2024-04-24-12_50_55.pdf](https://github.com/dannkis/Crypto-Wallet-App-Concept/files/15093640/screencapture-localhost-3001-Wallets-2024-04-24-12_50_55.pdf)
 
 ### Admin Controls Page
 
