@@ -1,0 +1,61 @@
+@import url("https://fonts.googleapis.com/css2?family=Overpass:ital,wght@0,100..900;1,100..900&display=swap");
+
+html{
+  background-color: #00171f;
+}
+
+* {
+  font-family: "Overpass", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: normal;
+  font-style: normal;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+hr {
+  margin-top: 0.2rem !important;
+  margin-bottom: 1rem !important;
+  border: none !important;
+  height: 4px; /* Adjust height as needed */
+  background-color: #00a7e1 !important;
+  &.active {
+    background-color: #FFFFFF !important; /* Change color to your desired color */
+  }
+}
+
+.link-unstyled, .link-unstyled:link {
+  color: inherit;
+  text-decoration: inherit;
+  :hover{
+    color:#00a7e1;
+    transition: all 0.5s ease;
+  }
+}
+
+.max-vh-100{
+  max-height: 100vh;
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f1f1f1; 
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #007ea7; 
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #007ea7; 
+}
